@@ -12,7 +12,7 @@ RESTful Web Service for handling valid/invalid customer requests in order to mak
 
 ### 1. Clone the application
 
-``https://github.com/NailyaD/TestAssignments.git``
+``https://github.com/davidzillion/TestAssignments.git``
 
 ### 2. Create Mysql database
 
